@@ -1,4 +1,4 @@
-const GOOGLE_API_KEY = ""
+const GOOGLE_API_KEY = "AIzaSyC0kV-wqqT3AHcC3fuwKT4zzX5Glnt0Wf8"
 
 export const LIVE_CHAT_COUNT = 25;
 
@@ -6,5 +6,5 @@ export const YOUTUBE_VIDEOS_API = "https://youtube.googleapis.com/youtube/v3/vid
 
 
 
-export const YOUTUBE_SEARCH_API = "http://suggestqueries.google.com/complete/search?client=youtube&ds=yt&client=firefox&q=";
+export const YOUTUBE_SEARCH_API = "https://suggestqueries.google.com/complete/search?client=youtube&ds=yt&client=firefox&q=";
 
